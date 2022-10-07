@@ -11,3 +11,7 @@ This is my repository following the course [Data access using .NET, C#, Dapper a
 #### Notice
 - The [SQL script](CourseProject/script.sql) is for SQL Server.
 - You can access the certificate **[here](https://balta.io/certificados/e4a08d9c-1d5f-44ad-8464-65ef86884301)**
+
+### Summary
+- [CourseBaltaDapper](CourseBaltaDapper) - I wrote a lot of methods to exemplify the Dapper possibilities.
+- [CourseProject](CourseProject) - I followed a simple project that simulate some useful queries and repository patterns.
