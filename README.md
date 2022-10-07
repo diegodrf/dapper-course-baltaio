@@ -1,6 +1,9 @@
 
 # Data access using .NET, C#, Dapper and SQL Server
-This is my repository following the course [Data access using .NET, C#, Dapper and SQL Server](https://balta.io/player/assistir/63c6ef55-44ee-445d-9b53-62e06fc969b8/f44f5e23-594d-4ac3-8b40-4ce263f30199) from [Balta.io](https://balta.io/)
+
+This is my repository following the course [Data access using .NET, C#, Dapper and SQL Server](https://balta.io/player/assistir/63c6ef55-44ee-445d-9b53-62e06fc969b8/f44f5e23-594d-4ac3-8b40-4ce263f30199) from [Balta.io](https://balta.io/).
+
+You can access the certificate **[here](https://balta.io/certificados/e4a08d9c-1d5f-44ad-8464-65ef86884301)**.
 
 ### In this course I learned:
 - **[Dapper](https://github.com/DapperLib/Dapper)**, a micro ORM produced by [Stack Overflow Team](https://stackoverflow.com) to solve common data access problems, but using a lightweight ORM.
@@ -10,7 +13,7 @@ This is my repository following the course [Data access using .NET, C#, Dapper a
 
 #### Notice
 - The [SQL script](CourseProject/script.sql) is for SQL Server.
-- You can access the certificate **[here](https://balta.io/certificados/e4a08d9c-1d5f-44ad-8464-65ef86884301)**
+- You can access the Balta.io repository for this course [here](https://github.com/balta-io/2806).
 
 ### Summary
 - [CourseBaltaDapper](CourseBaltaDapper) - I wrote a lot of methods to exemplify the Dapper possibilities.
